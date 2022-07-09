@@ -1,6 +1,6 @@
 # Re-Entrancy Attack
 
-Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Junior Tack.
+Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Senior Track.
 
 This code was written for Level 3: Re-Entrancy Attack
 
